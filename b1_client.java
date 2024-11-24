@@ -17,7 +17,7 @@ public class b1_client {
         int n = 0;
         boolean checksn = false;
 
-        // Nhập số nguyên n
+    
         while (checksn == false) {
           
                 System.out.print("nhap n:");
